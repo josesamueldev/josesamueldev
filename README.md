@@ -48,16 +48,7 @@ jose_samuel = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=josesamueldev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesamueldev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Onde me encontrar
 
