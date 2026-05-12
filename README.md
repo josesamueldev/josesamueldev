@@ -19,7 +19,7 @@ jose_samuel = {
     "localização": "Belém, PA 🌿",
     "status": "Estudante em modo turbo 🚀",
     "foco": ["Python", "Web Dev", "projetos legais"],
-    "quando_não_está_codando": "provavelmente dormindo... ou comendo"
+    "quando_não_estou_codando": "provavelmente to dormindo... ou comendo"
 }
 ```
 
